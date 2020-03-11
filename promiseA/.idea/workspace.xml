@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22f8c578-a86b-4f24-b4ca-39f3f0eec559" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e5870542-c536-4ae0-90b2-0701f42791d5" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectId" id="1VhNk7uAaE31Ovj1DCSoMX48ZOA" />
+  <component name="ProjectId" id="1Vhi821bgkyCuLV7O35P2d4KoEZ" />
   <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -51,34 +51,30 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="22f8c578-a86b-4f24-b4ca-39f3f0eec559" name="Default" comment="" />
-      <created>1570877838438</created>
+      <changelist id="e5870542-c536-4ae0-90b2-0701f42791d5" name="Default" comment="" />
+      <created>1555466624000</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1570877838438</updated>
-      <workItem from="1570877839958" duration="752000" />
-      <workItem from="1571022444187" duration="598000" />
-      <workItem from="1571364895094" duration="597000" />
-      <workItem from="1571624269702" duration="583000" />
-      <workItem from="1571970636655" duration="598000" />
-      <workItem from="1572315045146" duration="571000" />
-      <workItem from="1572501077933" duration="54000" />
-      <workItem from="1577701508223" duration="1798000" />
+      <updated>1555466624000</updated>
+      <workItem from="1555466626351" duration="32168000" />
+      <workItem from="1555558684733" duration="1766000" />
+      <workItem from="1556417915552" duration="598000" />
+      <workItem from="1556419880089" duration="598000" />
+      <workItem from="1556502229974" duration="576000" />
+      <workItem from="1556504442515" duration="598000" />
+      <workItem from="1557974281917" duration="598000" />
+      <workItem from="1558684954793" duration="18000" />
+      <workItem from="1577711565836" duration="4450000" />
+      <workItem from="1577945118189" duration="890000" />
+      <workItem from="1578400801761" duration="731000" />
+      <workItem from="1578883297448" duration="1422000" />
+      <workItem from="1582160464244" duration="3211000" />
+      <workItem from="1582811165774" duration="1184000" />
+      <workItem from="1583145030987" duration="72000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
